@@ -1,10 +1,10 @@
-title: 2024年的日记 # name of the site
+title: 工作日志 # name of the site
 author: xiangmouren # name of site's author
 email: resmile0927@gmail.com # email of site's author
 url: https://i1oveyou.github.io # root address of the site
 baseurl: "/work" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  "站点描述： 工作日志^_^"
+  "站点描述： 记录自己当牛马的经历，得努力成为【B或者I】呀^_^"
 
 permalink: /:month/:day/:title
 
