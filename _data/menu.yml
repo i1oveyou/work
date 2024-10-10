@@ -1,0 +1,31 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: 关于2024这一年
+    entries:
+      - title: 今年23岁
+      - title: 大学四年级
+      - title: "email: 935797872@qq.com"
+
+  - title: rss
+    url: feed.xml
+
+  - title: all posts
+    post_list:
+      limit: 12
+      show_more: true
+      show_more_text: 查看更多文章...
+      show_more_url: category/archive.html
+  
+ 
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  #         - title: example page
+  #           url: about
+  # - title: PRO TIP
+  #   entries:
+  #     - title: to edit this menu, edit _data/menu.yml file
